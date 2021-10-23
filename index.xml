@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Javid Dadashkarimi</title>
+    <title>Todd Constable</title>
     <link>/</link>
-    <description>Recent content on Javid Dadashkarimi</description>
+    <description>Recent content on Todd Constable</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Method and system for information retrieval</title>
-      <link>/publications/2021/patent-2021/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2021/patent-2021/</guid>
-      <description>Abstract A perspective-based search system and method is disclosed. The perspective based system allows users to select specific perspectives on a search topic and view the results from those perspectives.</description>
-    </item>
     
     <item>
       <title>Trustworthy ML &amp; Robust Statistics</title>
@@ -30,75 +21,12 @@
     </item>
     
     <item>
-      <title>An expectation-maximization algorithm for query translation based on pseudo-relevant documents</title>
-      <link>/publications/2017/imp-2017/</link>
-      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Task-induced brain state manipulation</title>
+      <link>/posts/abigail-18/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publications/2017/imp-2017/</guid>
-      <description>Abstract Query translation in cross-language information retrieval (CLIR) can be done by employing dictionaries, aligned corpora, or machine translators.</description>
-    </item>
-    
-    <item>
-      <title>Building a multi-domain comparable corpus using a learning to rank method</title>
-      <link>/publications/2016/jnle-2016/</link>
-      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2016/jnle-2016/</guid>
-      <description>Abstract Comparable corpora are key translation resources for both languages and domains with limited linguistic resources.</description>
-    </item>
-    
-    <item>
-      <title>Data-driven mapping between functional connectomes using optimal transport</title>
-      <link>/publications/2021/miccai-2021/</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2021/miccai-2021/</guid>
-      <description>Abstract Functional connectomes derived from functional magnetic resonance imaging have long been used to understand the functional organization of the brain.</description>
-    </item>
-    
-    <item>
-      <title>A mass multivariate edge-wise approach for combining multiple connectomes to improve the detection of group differences | Best Poster in Connectomics in NeuroImage</title>
-      <link>/publications/2021/miccai-2019/</link>
-      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2021/miccai-2019/</guid>
-      <description>Abstract Functional connectivity derived from functional magnetic resonance imaging data has been extensively used to characterize individual and group differences.</description>
-    </item>
-    
-    <item>
-      <title>Dimension projection among languages based on pseudo-relevant documents for query translation</title>
-      <link>/publications/2017/ecir-2017/</link>
-      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2017/ecir-2017/</guid>
-      <description>Abstract Using top-ranked documents in response to a query has been shown to be an effective approach to improve the quality of query translation in dictionary- based cross-language information retrieval.</description>
-    </item>
-    
-    <item>
-      <title>Learning to Weight Translations using Ordinal Linear Regression and Query-generated Training Data for Ad-hoc Retrieval with Long Queries</title>
-      <link>/publications/2016/coling-2016/</link>
-      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2016/coling-2016/</guid>
-      <description>Abstract Ordinal regression which is known with learning to rank has long been used in information re- trieval (IR).</description>
-    </item>
-    
-    <item>
-      <title>Pseudo-relevance feedback based on matrix factorization</title>
-      <link>/publications/2016/cikm-2016/</link>
-      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2016/cikm-2016/</guid>
-      <description>Abstract In information retrieval, pseudo-relevance feedback (PRF) refers to a strategy for updating the query model using the top retrieved documents.</description>
-    </item>
-    
-    <item>
-      <title>SS4MCT: a statistical stemmer for morphologically complex texts</title>
-      <link>/publications/2016/clef-2016/</link>
-      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2016/clef-2016/</guid>
-      <description>Abstract There have been multiple attempts to resolve various inflec- tion matching problems in information retrieval.</description>
+      <guid>/posts/abigail-18/</guid>
+      <description>Recent work has begun to relate individual differences in brain functional organization to human behaviors and cognition, but the best brain state to reveal such relationships remains an open question.</description>
     </item>
     
     <item>
@@ -111,30 +39,12 @@
     </item>
     
     <item>
-      <title>Variational AutoEncoders and Topic Modeling</title>
-      <link>/posts/vae-2021/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/vae-2021/</guid>
-      <description>Topic modeling is a powerful technique to assign appropriate distributions to words and documents.</description>
-    </item>
-    
-    <item>
       <title>A hitchhiker’s guide to working with large, open-source neuroimaging datasets</title>
       <link>/publications/2021/nhb-2021/</link>
       <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/publications/2021/nhb-2021/</guid>
       <description>Abstract Large datasets that enable researchers to perform investigations with unprecedented rigor are growing increasingly common in neuroimaging.</description>
-    </item>
-    
-    <item>
-      <title>Functional Connectivity During Frustration: Predictive Modeling of Irritability in Youth</title>
-      <link>/publications/2021/npp-2021/</link>
-      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2021/npp-2021/</guid>
-      <description>Abstract Irritability cuts across many pediatric disorders and is a common presenting complaint in child psychiatry; however, its neural mechanisms remain unclear.</description>
     </item>
     
     <item>
@@ -147,21 +57,21 @@
     </item>
     
     <item>
+      <title>Within node connectivity changes, not simply edge changes, influence graph theory measures in functional connectivity studies of the brain</title>
+      <link>/publications/2021/neuroimage-luou/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/2021/neuroimage-luou/</guid>
+      <description>Abstract Interest in understanding the organization of the brain has led to the application of graph theory methods across a wide array of functional connectivity studies.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/cv/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/cv/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting BMI From Whole-Brain Functional Connectivity</title>
-      <link>/publications/2021/bp-2021/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2021/bp-2021/</guid>
-      <description>Abstract Variations in body habitus (eg obesity) have been linked to widespread changes in the brain.</description>
     </item>
     
     <item>
@@ -180,24 +90,6 @@
       
       <guid>/research/non_convex.md/</guid>
       <description>Until recently, convex programs were seen as the defining boundary for tractability in continuous optimization.</description>
-    </item>
-    
-    <item>
-      <title>Sequence to Logic with Copy and Cache</title>
-      <link>/publications/2018/arxiv2-2019/</link>
-      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2018/arxiv2-2019/</guid>
-      <description>Abstract Generating logical form equivalents of human language is a fresh way to employ neural architectures where long short-term memory effectively captures dependencies in both encoder and decoder units.</description>
-    </item>
-    
-    <item>
-      <title>Zero-shot transfer learning for semantic parsing</title>
-      <link>/publications/2018/arxiv-2019/</link>
-      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2018/arxiv-2019/</guid>
-      <description>Abstract While neural networks have shown impressive performance on large datasets, applying these models to tasks where little data is available remains a challenging problem.</description>
     </item>
     
     <item>
@@ -233,7 +125,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>I’m Javid Dadashkarimi PhD candidate in computer science department at Yale University.</description>
+      <description>Dr. Todd Constable&amp;rsquo;s research primarily focuses on functional magnetic resonance (MR) and understanding cognitive processes that are related to language and memory and how these processes may be altered in different disease states or with different medications.</description>
     </item>
     
   </channel>

@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Javid Dadashkarimi</title>
+    <title>Posts on Todd Constable</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on Javid Dadashkarimi</description>
+    <description>Recent content in Posts on Todd Constable</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Task-induced brain state manipulation</title>
+      <link>/posts/abigail-18/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/abigail-18/</guid>
+      <description>Recent work has begun to relate individual differences in brain functional organization to human behaviors and cognition, but the best brain state to reveal such relationships remains an open question.</description>
+    </item>
     
     <item>
       <title>Optimal Transport and Brain Imaging</title>
@@ -18,15 +27,6 @@
       
       <guid>/posts/ot-2021/</guid>
       <description>Fuctional connectomes, derived from functional magnetic resonance imaging (fMRI) is widely used to study functional organization of human brain.</description>
-    </item>
-    
-    <item>
-      <title>Variational AutoEncoders and Topic Modeling</title>
-      <link>/posts/vae-2021/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/vae-2021/</guid>
-      <description>Topic modeling is a powerful technique to assign appropriate distributions to words and documents.</description>
     </item>
     
   </channel>
