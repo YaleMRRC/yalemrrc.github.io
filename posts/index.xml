@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Javid Dadashkarimi</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Javid Dadashkarimi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimal Transport and Brain Imaging</title>
+      <link>/posts/ot-2021/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ot-2021/</guid>
+      <description>Fuctional connectomes, derived from functional magnetic resonance imaging (fMRI) is widely used to study functional organization of human brain.</description>
+    </item>
+    
+    <item>
+      <title>Variational AutoEncoders and Topic Modeling</title>
+      <link>/posts/vae-2021/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/vae-2021/</guid>
+      <description>Topic modeling is a powerful technique to assign appropriate distributions to words and documents.</description>
+    </item>
+    
+  </channel>
+</rss>
