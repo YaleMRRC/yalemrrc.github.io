@@ -264,6 +264,15 @@
     </item>
     
     <item>
+      <title>Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity</title>
+      <link>/posts/fingerprint/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/fingerprint/</guid>
+      <description>Functional magnetic resonance imaging (fMRI) studies typically collapse data from many subjects, but brain functional organization varies between individuals.</description>
+    </item>
+    
+    <item>
       <title>How Tasks Change Whole-Brain Functional Organization to Reveal Brain-Phenotype Relationships</title>
       <link>/publications/2020-08-27_cell-rep_11/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
